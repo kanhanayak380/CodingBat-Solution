@@ -1,2 +1,2 @@
 # CodingBat-Solution
-Contains each and every problem solution
+Contains each and every program solution from CodingBat.
